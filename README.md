@@ -50,17 +50,13 @@ Columns (ID, Year, Date, Stage, Home Team, Home Goals, Away Goals, Away Team, Wi
 
 ### - Tools and Technologies Used:
 
-##### ● SQL Server 2019
-##### ● Advanced SQL Queries:
+##### - SQL Server 2019
+##### - Advanced SQL Queries:
   - user-defined functions:
     - ( getwinner , N_Matches_Year , Position , N_Matches , GETDATA )
 
   - Stored Procedures:
-     - HostAndWin               - Final_Highest_Goal                - Most_Matches_Played
-     - HighGoalsCup             - Champ_Of_WC                       - High_Goals_Player
-     - HighGoalsOut             - The_Winner                        - Most_Scored_Match
-     - HighGoalsIn              - The_2000s_Winners                 - Top5TeamsGoals
-     - Goal_Stage               - Top_Team
+     - ( HostAndWin, Final_Highest_Goal, Most_Matches_Played, HighGoalsCup, Champ_Of_WC, High_Goals_Player, HighGoalsOut, The_Winner                        ,Most_Scored_Match, HighGoalsIn, The_2000s_Winners, Top5TeamsGoals, Goal_Stage, Top_Team)
 
   - Triggers ( up_host )   
   - VIEW ( H_A_Goals )
