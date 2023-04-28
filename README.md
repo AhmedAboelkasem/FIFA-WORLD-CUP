@@ -1,5 +1,5 @@
 # FIFA WORLD CUP
-<img src="https://user-images.githubusercontent.com/47163932/235232138-8b24cb08-18cd-427e-b0ba-c7649cdac4a0.jpg">
+<img src="https://user-images.githubusercontent.com/47163932/235232138-8b24cb08-18cd-427e-b0ba-c7649cdac4a0.jpg" height="500">
 
 ## - Context:
 
@@ -20,5 +20,5 @@ Columns (ID, Year, Date, Stage, Home Team, Home Goals, Away Goals, Away Team, Wi
 
 ### ERD:
 
-<img src="https://user-images.githubusercontent.com/47163932/235233298-bf9021cf-1cbd-4bae-bba6-f44ea0e7b732.jpeg">
+<img src="https://user-images.githubusercontent.com/47163932/235233298-bf9021cf-1cbd-4bae-bba6-f44ea0e7b732.jpeg" width="600" height="400">
 
