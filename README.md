@@ -24,7 +24,7 @@ Columns (ID, Year, Date, Stage, Home Team, Home Goals, Away Goals, Away Team, Wi
 
 ### - Insights:
 
-<p> We answered some questions …. </n>
+<p> We answered some questions …. <br>
 1- Which Countries Hosted the World Cup and Won?
 2- which world cup has highest goals scored?
 3- which country scored a highest goal outside home?
