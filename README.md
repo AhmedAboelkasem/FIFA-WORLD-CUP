@@ -52,10 +52,8 @@ Columns (ID, Year, Date, Stage, Home Team, Home Goals, Away Goals, Away Team, Wi
 
 ##### ● SQL Server 2019
 ##### ● Advanced SQL Queries:
-  - Functions:
-    - getwinner                            - N_Matches_Year
-    - Position                             - N_Matches
-    - GETDATA
+  - user-defined functions:
+    - ( getwinner , N_Matches_Year , Position , N_Matches , GETDATA )
 
   - Stored Procedures:
      - HostAndWin               - Final_Highest_Goal                - Most_Matches_Played
