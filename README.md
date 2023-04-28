@@ -1,5 +1,5 @@
 # FIFA WORLD CUP
-<img src="https://user-images.githubusercontent.com/47163932/235232138-8b24cb08-18cd-427e-b0ba-c7649cdac4a0.jpg" height="600">
+<img src="https://user-images.githubusercontent.com/47163932/235232138-8b24cb08-18cd-427e-b0ba-c7649cdac4a0.jpg">
 
 ## - Context:
 
