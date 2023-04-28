@@ -25,25 +25,25 @@ Columns (ID, Year, Date, Stage, Home Team, Home Goals, Away Goals, Away Team, Wi
 ### - Insights:
 
 <p> We answered some questions …. <br>
-1- Which Countries Hosted the World Cup and Won?
-2- which world cup has highest goals scored?
-3- which country scored a highest goal outside home?
-5- which Final match has a highest-goals scored?
+1- Which Countries Hosted the World Cup and Won?<br>
+2- which world cup has highest goals scored?<br>
+3- which country scored a highest goal outside home?<br>
+5- which Final match has a highest-goals scored?<br>
 6- Most Team Won The World Cups.
-     (The Most Teams Won The World Cups)?
-7- Which Countries Achieve The Specific Position?
-8- Who Win The Cup in That Year?
-9- which countries won the world cup in 2000s?
-10- Average Goals Scored In World Cups and Who Is The Country?
-11- Which team has played the most matches in world cup history?
-12- What is the highest number of goals scored by a player in a single tournament?
-13- MOST SCORED MATCH.
-14- Top 5 Countries Scored Goals.
-15- number Of Goals For Team In Specific Stage.
-16- Number Of Appearance Of The Team For Each Cup.
-17- NUMBER OF MATCHES PLAYED BY TEAM.
-18- Which Country Win and Which Country Host The specific Cup?
-19- Prevent The Update in dataset(Trigger).
-20- HIGHEST SCORE MATCH.
-21- Top Country Won In a Specific Position?
+     (The Most Teams Won The World Cups)?<br>
+7- Which Countries Achieve The Specific Position?<br>
+8- Who Win The Cup in That Year?<br>
+9- which countries won the world cup in 2000s?<br>
+10- Average Goals Scored In World Cups and Who Is The Country?<br>
+11- Which team has played the most matches in world cup history?<br>
+12- What is the highest number of goals scored by a player in a single tournament?<br>
+13- MOST SCORED MATCH.<br>
+14- Top 5 Countries Scored Goals.<br>
+15- number Of Goals For Team In Specific Stage.<br>
+16- Number Of Appearance Of The Team For Each Cup.<br>
+17- NUMBER OF MATCHES PLAYED BY TEAM.<br>
+18- Which Country Win and Which Country Host The specific Cup?<br>
+19- Prevent The Update in dataset(Trigger).<br>
+20- HIGHEST SCORE MATCH.<br>
+21- Top Country Won In a Specific Position?<br>
 <p/>
