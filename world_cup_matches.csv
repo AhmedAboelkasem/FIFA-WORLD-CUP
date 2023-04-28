@@ -1,0 +1,901 @@
+ID,Year,Date,Stage,Home Team,Home Goals,Away Goals,Away Team,Win Conditions,Host Team
+1,1930,7/13/1930,Group stage,France,4,1,Mexico,,FALSE
+2,1930,7/13/1930,Group stage,United States,3,0,Belgium,,FALSE
+3,1930,7/14/1930,Group stage,Yugoslavia,2,1,Brazil,,FALSE
+4,1930,7/14/1930,Group stage,Romania,3,1,Peru,,FALSE
+5,1930,7/15/1930,Group stage,Argentina,1,0,France,,FALSE
+6,1930,7/16/1930,Group stage,Chile,3,0,Mexico,,FALSE
+7,1930,7/17/1930,Group stage,Yugoslavia,4,0,Bolivia,,FALSE
+8,1930,7/17/1930,Group stage,United States,3,0,Paraguay,,FALSE
+9,1930,7/18/1930,Group stage,Uruguay,1,0,Peru,,TRUE
+10,1930,7/19/1930,Group stage,Chile,1,0,France,,FALSE
+11,1930,7/19/1930,Group stage,Argentina,6,3,Mexico,,FALSE
+12,1930,7/20/1930,Group stage,Brazil,4,0,Bolivia,,FALSE
+13,1930,7/20/1930,Group stage,Paraguay,1,0,Belgium,,FALSE
+14,1930,7/21/1930,Group stage,Uruguay,4,0,Romania,,TRUE
+15,1930,7/22/1930,Group stage,Argentina,3,1,Chile,,FALSE
+16,1930,7/26/1930,Semi-finals,Argentina,6,1,United States,,FALSE
+17,1930,7/27/1930,Semi-finals,Uruguay,6,1,Yugoslavia,,TRUE
+18,1930,7/30/1930,Final,Uruguay,4,2,Argentina,,TRUE
+19,1934,5/27/1934,Round of 16,Austria,3,2,France,Extra time,FALSE
+20,1934,5/27/1934,Round of 16,Hungary,4,2,Egypt,,FALSE
+21,1934,5/27/1934,Round of 16,Switzerland,3,2,Netherlands,,FALSE
+22,1934,5/27/1934,Round of 16,Sweden,3,2,Argentina,,FALSE
+23,1934,5/27/1934,Round of 16,Germany,5,2,Belgium,,FALSE
+24,1934,5/27/1934,Round of 16,Spain,3,1,Brazil,,FALSE
+25,1934,5/27/1934,Round of 16,Italy,7,1,United States,,TRUE
+26,1934,5/27/1934,Round of 16,Czechoslovakia,2,1,Romania,,FALSE
+27,1934,5/31/1934,Quarter-finals,Czechoslovakia,3,2,Switzerland,,FALSE
+28,1934,5/31/1934,Quarter-finals,Germany,2,1,Sweden,,FALSE
+29,1934,5/31/1934,Quarter-finals,Italy,1,1,Spain,,TRUE
+30,1934,5/31/1934,Quarter-finals,Austria,2,1,Hungary,,FALSE
+31,1934,6/1/1934,Quarter-finals,Italy,1,0,Spain,,TRUE
+32,1934,6/3/1934,Semi-finals,Italy,1,0,Austria,,TRUE
+33,1934,6/3/1934,Semi-finals,Czechoslovakia,3,1,Germany,,FALSE
+34,1934,6/7/1934,Third place,Germany,3,2,Austria,,FALSE
+35,1934,6/10/1934,Final,Italy,2,1,Czechoslovakia,Extra time,TRUE
+36,1938,6/4/1938,Round of 16,Switzerland,1,1,Germany,,FALSE
+37,1938,6/5/1938,Round of 16,Hungary,6,0,Indonesia,,FALSE
+38,1938,6/5/1938,Round of 16,France,3,1,Belgium,,TRUE
+39,1938,6/5/1938,Round of 16,Cuba,3,3,Romania,,FALSE
+40,1938,6/5/1938,Round of 16,Italy,2,1,Norway,Extra time,FALSE
+41,1938,6/5/1938,Round of 16,Brazil,6,5,Poland,Extra time,FALSE
+42,1938,6/5/1938,Round of 16,Czechoslovakia,3,0,Netherlands,Extra time,FALSE
+43,1938,6/9/1938,Round of 16,Cuba,2,1,Romania,,FALSE
+44,1938,6/9/1938,Round of 16,Switzerland,4,2,Germany,,FALSE
+45,1938,6/12/1938,Quarter-finals,Brazil,1,1,Czechoslovakia,,FALSE
+46,1938,6/12/1938,Quarter-finals,Hungary,2,0,Switzerland,,FALSE
+47,1938,6/12/1938,Quarter-finals,Sweden,8,0,Cuba,,FALSE
+48,1938,6/12/1938,Quarter-finals,France,1,3,Italy,,TRUE
+49,1938,6/14/1938,Quarter-finals,Brazil,2,1,Czechoslovakia,,FALSE
+50,1938,6/16/1938,Semi-finals,Hungary,5,1,Sweden,,FALSE
+51,1938,6/16/1938,Semi-finals,Italy,2,1,Brazil,,FALSE
+52,1938,6/19/1938,Third place,Brazil,4,2,Sweden,,FALSE
+53,1938,6/19/1938,Final,Italy,4,2,Hungary,,FALSE
+54,1950,6/24/1950,First round,Brazil,4,0,Mexico,,TRUE
+55,1950,6/25/1950,First round,England,2,0,Chile,,FALSE
+56,1950,6/25/1950,First round,Spain,3,1,United States,,FALSE
+57,1950,6/25/1950,First round,Sweden,3,2,Italy,,FALSE
+58,1950,6/25/1950,First round,Yugoslavia,3,0,Switzerland,,FALSE
+59,1950,6/28/1950,First round,Brazil,2,2,Switzerland,,TRUE
+60,1950,6/28/1950,First round,Yugoslavia,4,1,Mexico,,FALSE
+61,1950,6/29/1950,First round,Spain,2,0,Chile,,FALSE
+62,1950,6/29/1950,First round,United States,1,0,England,,FALSE
+63,1950,6/29/1950,First round,Sweden,2,2,Paraguay,,FALSE
+64,1950,7/1/1950,First round,Brazil,2,0,Yugoslavia,,TRUE
+65,1950,7/2/1950,First round,Spain,1,0,England,,FALSE
+66,1950,7/2/1950,First round,Italy,2,0,Paraguay,,FALSE
+67,1950,7/2/1950,First round,Uruguay,8,0,Bolivia,,FALSE
+68,1950,7/2/1950,First round,Chile,5,2,United States,,FALSE
+69,1950,7/2/1950,First round,Switzerland,2,1,Mexico,,FALSE
+70,1950,7/9/1950,Final round,Uruguay,2,2,Spain,,FALSE
+71,1950,7/9/1950,Final round,Brazil,7,1,Sweden,,TRUE
+72,1950,7/13/1950,Final round,Brazil,6,1,Spain,,TRUE
+73,1950,7/13/1950,Final round,Uruguay,3,2,Sweden,,FALSE
+74,1950,7/16/1950,Final round,Sweden,3,1,Spain,,FALSE
+75,1950,7/16/1950,Final round,Uruguay,2,1,Brazil,,TRUE
+76,1954,6/16/1954,Group stage,Uruguay,2,0,Czechoslovakia,,FALSE
+77,1954,6/16/1954,Group stage,Austria,1,0,Scotland,,FALSE
+78,1954,6/16/1954,Group stage,Brazil,5,0,Mexico,,FALSE
+79,1954,6/16/1954,Group stage,Yugoslavia,1,0,France,,FALSE
+80,1954,6/17/1954,Group stage,Switzerland,2,1,Italy,,TRUE
+81,1954,6/17/1954,Group stage,Germany,4,1,Turkey,,FALSE
+82,1954,6/17/1954,Group stage,Hungary,9,0,South Korea,,FALSE
+83,1954,6/17/1954,Group stage,England,4,4,Belgium,,FALSE
+84,1954,6/19/1954,Group stage,Uruguay,7,0,Scotland,,FALSE
+85,1954,6/19/1954,Group stage,Austria,5,0,Czechoslovakia,,FALSE
+86,1954,6/19/1954,Group stage,Brazil,1,1,Yugoslavia,,FALSE
+87,1954,6/19/1954,Group stage,France,3,2,Mexico,,FALSE
+88,1954,6/20/1954,Group stage,Hungary,8,3,Germany,,FALSE
+89,1954,6/20/1954,Group stage,Turkey,7,0,South Korea,,FALSE
+90,1954,6/20/1954,Group stage,Italy,4,1,Belgium,,FALSE
+91,1954,6/20/1954,Group stage,Switzerland,0,2,England,,TRUE
+92,1954,6/23/1954,Group stage,Germany,7,2,Turkey,,FALSE
+93,1954,6/23/1954,Group stage,Switzerland,4,1,Italy,,TRUE
+94,1954,6/26/1954,Quarter-finals,Uruguay,4,2,England,,FALSE
+95,1954,6/26/1954,Quarter-finals,Switzerland,5,7,Austria,,TRUE
+96,1954,6/27/1954,Quarter-finals,Germany,2,0,Yugoslavia,,FALSE
+97,1954,6/27/1954,Quarter-finals,Hungary,4,2,Brazil,,FALSE
+98,1954,6/30/1954,Semi-finals,Germany,6,1,Austria,,FALSE
+99,1954,6/30/1954,Semi-finals,Hungary,4,2,Uruguay,Extra time,FALSE
+100,1954,7/3/1954,Third place,Austria,3,1,Uruguay,,FALSE
+101,1954,7/4/1954,Final,Germany,3,2,Hungary,,FALSE
+102,1958,6/8/1958,Group stage,Sweden,3,0,Mexico,,TRUE
+103,1958,6/8/1958,Group stage,Russia,2,2,England,,FALSE
+104,1958,6/8/1958,Group stage,Argentina,1,3,Germany,,FALSE
+105,1958,6/8/1958,Group stage,Hungary,1,1,Wales,,FALSE
+106,1958,6/8/1958,Group stage,France,7,3,Paraguay,,FALSE
+107,1958,6/8/1958,Group stage,Yugoslavia,1,1,Scotland,,FALSE
+108,1958,6/8/1958,Group stage,Brazil,3,0,Austria,,FALSE
+109,1958,6/8/1958,Group stage,Northern Ireland,1,0,Czechoslovakia,,FALSE
+110,1958,6/11/1958,Group stage,Brazil,0,0,England,,FALSE
+111,1958,6/11/1958,Group stage,Mexico,1,1,Wales,,FALSE
+112,1958,6/11/1958,Group stage,Paraguay,3,2,Scotland,,FALSE
+113,1958,6/11/1958,Group stage,Yugoslavia,3,2,France,,FALSE
+114,1958,6/11/1958,Group stage,Russia,2,0,Austria,,FALSE
+115,1958,6/11/1958,Group stage,Germany,2,2,Czechoslovakia,,FALSE
+116,1958,6/11/1958,Group stage,Argentina,3,1,Northern Ireland,,FALSE
+117,1958,6/12/1958,Group stage,Sweden,2,1,Hungary,,TRUE
+118,1958,6/15/1958,Group stage,Sweden,0,0,Wales,,TRUE
+119,1958,6/15/1958,Group stage,Brazil,2,0,Russia,,FALSE
+120,1958,6/15/1958,Group stage,Germany,2,2,Northern Ireland,,FALSE
+121,1958,6/15/1958,Group stage,Hungary,4,0,Mexico,,FALSE
+122,1958,6/15/1958,Group stage,Paraguay,3,3,Yugoslavia,,FALSE
+123,1958,6/15/1958,Group stage,France,2,1,Scotland,,FALSE
+124,1958,6/15/1958,Group stage,England,2,2,Austria,,FALSE
+125,1958,6/15/1958,Group stage,Czechoslovakia,6,1,Argentina,,FALSE
+126,1958,6/17/1958,Group stage,Russia,1,0,England,,FALSE
+127,1958,6/17/1958,Group stage,Northern Ireland,2,1,Czechoslovakia,Extra time,FALSE
+128,1958,6/17/1958,Group stage,Wales,2,1,Hungary,,FALSE
+129,1958,6/19/1958,Quarter-finals,Brazil,1,0,Wales,,FALSE
+130,1958,6/19/1958,Quarter-finals,Germany,1,0,Yugoslavia,,FALSE
+131,1958,6/19/1958,Quarter-finals,Sweden,2,0,Russia,,TRUE
+132,1958,6/19/1958,Quarter-finals,France,4,0,Northern Ireland,,FALSE
+133,1958,6/24/1958,Semi-finals,Sweden,3,1,Germany,,TRUE
+134,1958,6/24/1958,Semi-finals,Brazil,5,2,France,,FALSE
+135,1958,6/28/1958,Third place,France,6,3,Germany,,FALSE
+136,1958,6/29/1958,Final,Sweden,2,5,Brazil,,TRUE
+137,1962,5/30/1962,Group stage,Uruguay,2,1,Colombia,,FALSE
+138,1962,5/30/1962,Group stage,Brazil,2,0,Mexico,,FALSE
+139,1962,5/30/1962,Group stage,Argentina,1,0,Bulgaria,,FALSE
+140,1962,5/30/1962,Group stage,Chile,3,1,Switzerland,,TRUE
+141,1962,5/31/1962,Group stage,Russia,2,0,Yugoslavia,,FALSE
+142,1962,5/31/1962,Group stage,Czechoslovakia,1,0,Spain,,FALSE
+143,1962,5/31/1962,Group stage,Hungary,2,1,England,,FALSE
+144,1962,5/31/1962,Group stage,Germany,0,0,Italy,,FALSE
+145,1962,6/2/1962,Group stage,Yugoslavia,3,1,Uruguay,,FALSE
+146,1962,6/2/1962,Group stage,Brazil,0,0,Czechoslovakia,,FALSE
+147,1962,6/2/1962,Group stage,England,3,1,Argentina,,FALSE
+148,1962,6/2/1962,Group stage,Chile,2,0,Italy,,TRUE
+149,1962,6/3/1962,Group stage,Russia,4,4,Colombia,,FALSE
+150,1962,6/3/1962,Group stage,Spain,1,0,Mexico,,FALSE
+151,1962,6/3/1962,Group stage,Hungary,6,1,Bulgaria,,FALSE
+152,1962,6/3/1962,Group stage,Germany,2,1,Switzerland,,FALSE
+153,1962,6/6/1962,Group stage,Russia,2,1,Uruguay,,FALSE
+154,1962,6/6/1962,Group stage,Brazil,2,1,Spain,,FALSE
+155,1962,6/6/1962,Group stage,Hungary,0,0,Argentina,,FALSE
+156,1962,6/6/1962,Group stage,Chile,0,2,Germany,,TRUE
+157,1962,6/7/1962,Group stage,Yugoslavia,5,0,Colombia,,FALSE
+158,1962,6/7/1962,Group stage,Mexico,3,1,Czechoslovakia,,FALSE
+159,1962,6/7/1962,Group stage,England,0,0,Bulgaria,,FALSE
+160,1962,6/7/1962,Group stage,Italy,3,0,Switzerland,,FALSE
+161,1962,6/10/1962,Quarter-finals,Chile,2,1,Russia,,TRUE
+162,1962,6/10/1962,Quarter-finals,Brazil,3,1,England,,FALSE
+163,1962,6/10/1962,Quarter-finals,Czechoslovakia,1,0,Hungary,,FALSE
+164,1962,6/10/1962,Quarter-finals,Yugoslavia,1,0,Germany,,FALSE
+165,1962,6/13/1962,Semi-finals,Czechoslovakia,3,1,Yugoslavia,,FALSE
+166,1962,6/13/1962,Semi-finals,Chile,2,4,Brazil,,TRUE
+167,1962,6/16/1962,Third place,Chile,1,0,Yugoslavia,,TRUE
+168,1962,6/17/1962,Final,Brazil,3,1,Czechoslovakia,,FALSE
+169,1966,7/11/1966,Group stage,England,0,0,Uruguay,,TRUE
+170,1966,7/12/1966,Group stage,Germany,5,0,Switzerland,,FALSE
+171,1966,7/12/1966,Group stage,Brazil,2,0,Bulgaria,,FALSE
+172,1966,7/12/1966,Group stage,Russia,3,0,North Korea,,FALSE
+173,1966,7/13/1966,Group stage,France,1,1,Mexico,,FALSE
+174,1966,7/13/1966,Group stage,Portugal,3,1,Hungary,,FALSE
+175,1966,7/13/1966,Group stage,Argentina,2,1,Spain,,FALSE
+176,1966,7/13/1966,Group stage,Italy,2,0,Chile,,FALSE
+177,1966,7/15/1966,Group stage,Uruguay,2,1,France,,FALSE
+178,1966,7/15/1966,Group stage,Spain,2,1,Switzerland,,FALSE
+179,1966,7/15/1966,Group stage,Hungary,3,1,Brazil,,FALSE
+180,1966,7/15/1966,Group stage,North Korea,1,1,Chile,,FALSE
+181,1966,7/16/1966,Group stage,Portugal,3,0,Bulgaria,,FALSE
+182,1966,7/16/1966,Group stage,Germany,0,0,Argentina,,FALSE
+183,1966,7/16/1966,Group stage,Russia,1,0,Italy,,FALSE
+184,1966,7/16/1966,Group stage,England,2,0,Mexico,,TRUE
+185,1966,7/19/1966,Group stage,Uruguay,0,0,Mexico,,FALSE
+186,1966,7/19/1966,Group stage,Argentina,2,0,Switzerland,,FALSE
+187,1966,7/19/1966,Group stage,Portugal,3,1,Brazil,,FALSE
+188,1966,7/19/1966,Group stage,North Korea,1,0,Italy,,FALSE
+189,1966,7/20/1966,Group stage,England,2,0,France,,TRUE
+190,1966,7/20/1966,Group stage,Hungary,3,1,Bulgaria,,FALSE
+191,1966,7/20/1966,Group stage,Germany,2,1,Spain,,FALSE
+192,1966,7/20/1966,Group stage,Russia,2,1,Chile,,FALSE
+193,1966,7/23/1966,Quarter-finals,England,1,0,Argentina,,TRUE
+194,1966,7/23/1966,Quarter-finals,Germany,4,0,Uruguay,,FALSE
+195,1966,7/23/1966,Quarter-finals,Russia,2,1,Hungary,,FALSE
+196,1966,7/23/1966,Quarter-finals,Portugal,5,3,North Korea,,FALSE
+197,1966,7/25/1966,Semi-finals,Germany,2,1,Russia,,FALSE
+198,1966,7/26/1966,Semi-finals,England,2,1,Portugal,,TRUE
+199,1966,7/28/1966,Third place,Portugal,2,1,Russia,,FALSE
+200,1966,7/30/1966,Final,England,4,2,Germany,Extra time,TRUE
+201,1970,5/31/1970,Group stage,Mexico,0,0,Russia,,TRUE
+202,1970,6/2/1970,Group stage,Uruguay,2,0,Israel,,FALSE
+203,1970,6/2/1970,Group stage,Peru,3,2,Bulgaria,,FALSE
+204,1970,6/2/1970,Group stage,England,1,0,Romania,,FALSE
+205,1970,6/3/1970,Group stage,Italy,1,0,Sweden,,FALSE
+206,1970,6/3/1970,Group stage,Germany,2,1,Morocco,,FALSE
+207,1970,6/3/1970,Group stage,Brazil,4,1,Czechoslovakia,,FALSE
+208,1970,6/3/1970,Group stage,Belgium,3,0,El Salvador,,FALSE
+209,1970,6/6/1970,Group stage,Uruguay,0,0,Italy,,FALSE
+210,1970,6/6/1970,Group stage,Peru,3,0,Morocco,,FALSE
+211,1970,6/6/1970,Group stage,Romania,2,1,Czechoslovakia,,FALSE
+212,1970,6/6/1970,Group stage,Russia,4,1,Belgium,,FALSE
+213,1970,6/7/1970,Group stage,Sweden,1,1,Israel,,FALSE
+214,1970,6/7/1970,Group stage,Germany,5,2,Bulgaria,,FALSE
+215,1970,6/7/1970,Group stage,Brazil,1,0,England,,FALSE
+216,1970,6/7/1970,Group stage,Mexico,4,0,El Salvador,,TRUE
+217,1970,6/10/1970,Group stage,Sweden,1,0,Uruguay,,FALSE
+218,1970,6/10/1970,Group stage,Germany,3,1,Peru,,FALSE
+219,1970,6/10/1970,Group stage,Brazil,3,2,Romania,,FALSE
+220,1970,6/10/1970,Group stage,Russia,2,0,El Salvador,,FALSE
+221,1970,6/11/1970,Group stage,Italy,0,0,Israel,,FALSE
+222,1970,6/11/1970,Group stage,Bulgaria,1,1,Morocco,,FALSE
+223,1970,6/11/1970,Group stage,England,1,0,Czechoslovakia,,FALSE
+224,1970,6/11/1970,Group stage,Mexico,1,0,Belgium,,TRUE
+225,1970,6/14/1970,Quarter-finals,Mexico,1,4,Italy,,TRUE
+226,1970,6/14/1970,Quarter-finals,Germany,3,2,England,Extra time,FALSE
+227,1970,6/14/1970,Quarter-finals,Brazil,4,2,Peru,,FALSE
+228,1970,6/14/1970,Quarter-finals,Uruguay,1,0,Russia,Extra time,FALSE
+229,1970,6/17/1970,Semi-finals,Brazil,3,1,Uruguay,,FALSE
+230,1970,6/17/1970,Semi-finals,Italy,4,3,Germany,Extra time,FALSE
+231,1970,6/20/1970,Third place,Germany,1,0,Uruguay,,FALSE
+232,1970,6/21/1970,Final,Brazil,4,1,Italy,,FALSE
+233,1974,6/13/1974,First group stage,Brazil,0,0,Yugoslavia,,FALSE
+234,1974,6/14/1974,First group stage,Germany,1,0,Chile,,TRUE
+235,1974,6/14/1974,First group stage,East Germany,2,0,Australia,,FALSE
+236,1974,6/14/1974,First group stage,DR Congo,0,2,Scotland,,FALSE
+237,1974,6/15/1974,First group stage,Uruguay,0,2,Netherlands,,FALSE
+238,1974,6/15/1974,First group stage,Sweden,0,0,Bulgaria,,FALSE
+239,1974,6/15/1974,First group stage,Italy,3,1,Haiti,,FALSE
+240,1974,6/15/1974,First group stage,Poland,3,2,Argentina,,FALSE
+241,1974,6/18/1974,First group stage,Germany,3,0,Australia,,TRUE
+242,1974,6/18/1974,First group stage,Scotland,0,0,Brazil,,FALSE
+243,1974,6/18/1974,First group stage,Chile,1,1,East Germany,,FALSE
+244,1974,6/18/1974,First group stage,Yugoslavia,9,0,DR Congo,,FALSE
+245,1974,6/19/1974,First group stage,Netherlands,0,0,Sweden,,FALSE
+246,1974,6/19/1974,First group stage,Bulgaria,1,1,Uruguay,,FALSE
+247,1974,6/19/1974,First group stage,Haiti,0,7,Poland,,FALSE
+248,1974,6/19/1974,First group stage,Argentina,1,1,Italy,,FALSE
+249,1974,6/22/1974,First group stage,Scotland,1,1,Yugoslavia,,FALSE
+250,1974,6/22/1974,First group stage,Australia,0,0,Chile,,FALSE
+251,1974,6/22/1974,First group stage,DR Congo,0,3,Brazil,,FALSE
+252,1974,6/22/1974,First group stage,Germany,0,1,East Germany,,TRUE
+253,1974,6/23/1974,First group stage,Bulgaria,1,4,Netherlands,,FALSE
+254,1974,6/23/1974,First group stage,Argentina,4,1,Haiti,,FALSE
+255,1974,6/23/1974,First group stage,Sweden,3,0,Uruguay,,FALSE
+256,1974,6/23/1974,First group stage,Poland,2,1,Italy,,FALSE
+257,1974,6/26/1974,Second group stage,Germany,2,0,Yugoslavia,,TRUE
+258,1974,6/26/1974,Second group stage,Brazil,1,0,East Germany,,FALSE
+259,1974,6/26/1974,Second group stage,Netherlands,4,0,Argentina,,FALSE
+260,1974,6/26/1974,Second group stage,Sweden,0,1,Poland,,FALSE
+261,1974,6/30/1974,Second group stage,Argentina,1,2,Brazil,,FALSE
+262,1974,6/30/1974,Second group stage,Poland,2,1,Yugoslavia,,FALSE
+263,1974,6/30/1974,Second group stage,East Germany,0,2,Netherlands,,FALSE
+264,1974,6/30/1974,Second group stage,Germany,4,2,Sweden,,TRUE
+265,1974,7/3/1974,Second group stage,Germany,1,0,Poland,,TRUE
+266,1974,7/3/1974,Second group stage,Netherlands,2,0,Brazil,,FALSE
+267,1974,7/3/1974,Second group stage,Argentina,1,1,East Germany,,FALSE
+268,1974,7/3/1974,Second group stage,Sweden,2,1,Yugoslavia,,FALSE
+269,1974,7/6/1974,Third place,Brazil,0,1,Poland,,FALSE
+270,1974,7/7/1974,Final,Germany,2,1,Netherlands,,TRUE
+271,1978,6/1/1978,First group stage,Germany,0,0,Poland,,FALSE
+272,1978,6/2/1978,First group stage,Italy,2,1,France,,FALSE
+273,1978,6/2/1978,First group stage,Tunisia,3,1,Mexico,,FALSE
+274,1978,6/2/1978,First group stage,Argentina,2,1,Hungary,,TRUE
+275,1978,6/3/1978,First group stage,Sweden,1,1,Brazil,,FALSE
+276,1978,6/3/1978,First group stage,Austria,2,1,Spain,,FALSE
+277,1978,6/3/1978,First group stage,Peru,3,1,Scotland,,FALSE
+278,1978,6/3/1978,First group stage,Netherlands,3,0,Iran,,FALSE
+279,1978,6/6/1978,First group stage,Italy,3,1,Hungary,,FALSE
+280,1978,6/6/1978,First group stage,Poland,1,0,Tunisia,,FALSE
+281,1978,6/6/1978,First group stage,Germany,6,0,Mexico,,FALSE
+282,1978,6/6/1978,First group stage,Argentina,2,1,France,,TRUE
+283,1978,6/7/1978,First group stage,Brazil,0,0,Spain,,FALSE
+284,1978,6/7/1978,First group stage,Austria,1,0,Sweden,,FALSE
+285,1978,6/7/1978,First group stage,Scotland,1,1,Iran,,FALSE
+286,1978,6/7/1978,First group stage,Netherlands,0,0,Peru,,FALSE
+287,1978,6/10/1978,First group stage,France,3,1,Hungary,,FALSE
+288,1978,6/10/1978,First group stage,Poland,3,1,Mexico,,FALSE
+289,1978,6/10/1978,First group stage,Germany,0,0,Tunisia,,FALSE
+290,1978,6/10/1978,First group stage,Argentina,0,1,Italy,,TRUE
+291,1978,6/11/1978,First group stage,Brazil,1,0,Austria,,FALSE
+292,1978,6/11/1978,First group stage,Spain,1,0,Sweden,,FALSE
+293,1978,6/11/1978,First group stage,Peru,4,1,Iran,,FALSE
+294,1978,6/11/1978,First group stage,Scotland,3,2,Netherlands,,FALSE
+295,1978,6/14/1978,Second group stage,Germany,0,0,Italy,,FALSE
+296,1978,6/14/1978,Second group stage,Netherlands,5,1,Austria,,FALSE
+297,1978,6/14/1978,Second group stage,Brazil,3,0,Peru,,FALSE
+298,1978,6/14/1978,Second group stage,Argentina,2,0,Poland,,TRUE
+299,1978,6/18/1978,Second group stage,Poland,1,0,Peru,,FALSE
+300,1978,6/18/1978,Second group stage,Italy,1,0,Austria,,FALSE
+301,1978,6/18/1978,Second group stage,Germany,2,2,Netherlands,,FALSE
+302,1978,6/18/1978,Second group stage,Argentina,0,0,Brazil,,TRUE
+303,1978,6/21/1978,Second group stage,Netherlands,2,1,Italy,,FALSE
+304,1978,6/21/1978,Second group stage,Austria,3,2,Germany,,FALSE
+305,1978,6/21/1978,Second group stage,Brazil,3,1,Poland,,FALSE
+306,1978,6/21/1978,Second group stage,Argentina,6,0,Peru,,TRUE
+307,1978,6/24/1978,Third place,Brazil,2,1,Italy,,FALSE
+308,1978,6/25/1978,Final,Argentina,3,1,Netherlands,Extra time,TRUE
+309,1982,6/13/1982,First group stage,Argentina,0,1,Belgium,,FALSE
+310,1982,6/14/1982,First group stage,Italy,0,0,Poland,,FALSE
+311,1982,6/14/1982,First group stage,Brazil,2,1,Russia,,FALSE
+312,1982,6/15/1982,First group stage,Peru,0,0,Cameroon,,FALSE
+313,1982,6/15/1982,First group stage,Hungary,10,1,El Salvador,,FALSE
+314,1982,6/15/1982,First group stage,Scotland,5,2,New Zealand,,FALSE
+315,1982,6/16/1982,First group stage,Germany,1,2,Algeria,,FALSE
+316,1982,6/16/1982,First group stage,England,3,1,France,,FALSE
+317,1982,6/16/1982,First group stage,Spain,1,1,Honduras,,TRUE
+318,1982,6/17/1982,First group stage,Chile,0,1,Austria,,FALSE
+319,1982,6/17/1982,First group stage,Czechoslovakia,1,1,Kuwait,,FALSE
+320,1982,6/17/1982,First group stage,Yugoslavia,0,0,Northern Ireland,,FALSE
+321,1982,6/18/1982,First group stage,Italy,1,1,Peru,,FALSE
+322,1982,6/18/1982,First group stage,Argentina,4,1,Hungary,,FALSE
+323,1982,6/18/1982,First group stage,Brazil,4,1,Scotland,,FALSE
+324,1982,6/19/1982,First group stage,Poland,0,0,Cameroon,,FALSE
+325,1982,6/19/1982,First group stage,Belgium,1,0,El Salvador,,FALSE
+326,1982,6/19/1982,First group stage,Russia,3,0,New Zealand,,FALSE
+327,1982,6/20/1982,First group stage,Germany,4,1,Chile,,FALSE
+328,1982,6/20/1982,First group stage,England,2,0,Czechoslovakia,,FALSE
+329,1982,6/20/1982,First group stage,Spain,2,1,Yugoslavia,,TRUE
+330,1982,6/21/1982,First group stage,Algeria,0,2,Austria,,FALSE
+331,1982,6/21/1982,First group stage,France,4,1,Kuwait,,FALSE
+332,1982,6/21/1982,First group stage,Honduras,1,1,Northern Ireland,,FALSE
+333,1982,6/22/1982,First group stage,Poland,5,1,Peru,,FALSE
+334,1982,6/22/1982,First group stage,Belgium,1,1,Hungary,,FALSE
+335,1982,6/22/1982,First group stage,Russia,2,2,Scotland,,FALSE
+336,1982,6/23/1982,First group stage,Italy,1,1,Cameroon,,FALSE
+337,1982,6/23/1982,First group stage,Argentina,2,0,El Salvador,,FALSE
+338,1982,6/23/1982,First group stage,Brazil,4,0,New Zealand,,FALSE
+339,1982,6/24/1982,First group stage,Algeria,3,2,Chile,,FALSE
+340,1982,6/24/1982,First group stage,France,1,1,Czechoslovakia,,FALSE
+341,1982,6/24/1982,First group stage,Honduras,0,1,Yugoslavia,,FALSE
+342,1982,6/25/1982,First group stage,Germany,1,0,Austria,,FALSE
+343,1982,6/25/1982,First group stage,England,1,0,Kuwait,,FALSE
+344,1982,6/25/1982,First group stage,Spain,0,1,Northern Ireland,,TRUE
+345,1982,6/28/1982,Second group stage,Austria,0,1,France,,FALSE
+346,1982,6/28/1982,Second group stage,Poland,3,0,Belgium,,FALSE
+347,1982,6/29/1982,Second group stage,Italy,2,1,Argentina,,FALSE
+348,1982,6/29/1982,Second group stage,Germany,0,0,England,,FALSE
+349,1982,7/1/1982,Second group stage,Austria,2,2,Northern Ireland,,FALSE
+350,1982,7/1/1982,Second group stage,Belgium,0,1,Russia,,FALSE
+351,1982,7/2/1982,Second group stage,Argentina,1,3,Brazil,,FALSE
+352,1982,7/2/1982,Second group stage,Spain,1,2,Germany,,TRUE
+353,1982,7/4/1982,Second group stage,France,4,1,Northern Ireland,,FALSE
+354,1982,7/4/1982,Second group stage,Poland,0,0,Russia,,FALSE
+355,1982,7/5/1982,Second group stage,Italy,3,2,Brazil,,FALSE
+356,1982,7/5/1982,Second group stage,Spain,0,0,England,,TRUE
+357,1982,7/8/1982,Semi-finals,Poland,0,2,Italy,,FALSE
+358,1982,7/8/1982,Semi-finals,Germany,3,3,France,Germany win on penalties (5 - 4),FALSE
+359,1982,7/10/1982,Third place,Poland,3,2,France,,FALSE
+360,1982,7/11/1982,Final,Italy,3,1,Germany,,FALSE
+361,1986,5/31/1986,Group stage,Bulgaria,1,1,Italy,,FALSE
+362,1986,6/1/1986,Group stage,Spain,0,1,Brazil,,FALSE
+363,1986,6/1/1986,Group stage,Canada,0,1,France,,FALSE
+364,1986,6/2/1986,Group stage,Russia,6,0,Hungary,,FALSE
+365,1986,6/2/1986,Group stage,Argentina,3,1,South Korea,,FALSE
+366,1986,6/2/1986,Group stage,Morocco,0,0,Poland,,FALSE
+367,1986,6/3/1986,Group stage,Algeria,1,1,Northern Ireland,,FALSE
+368,1986,6/3/1986,Group stage,Mexico,2,1,Belgium,,TRUE
+369,1986,6/3/1986,Group stage,Portugal,1,0,England,,FALSE
+370,1986,6/4/1986,Group stage,Paraguay,1,0,Iraq,,FALSE
+371,1986,6/4/1986,Group stage,Uruguay,1,1,Germany,,FALSE
+372,1986,6/4/1986,Group stage,Scotland,0,1,Denmark,,FALSE
+373,1986,6/5/1986,Group stage,Italy,1,1,Argentina,,FALSE
+374,1986,6/5/1986,Group stage,France,1,1,Russia,,FALSE
+375,1986,6/5/1986,Group stage,South Korea,1,1,Bulgaria,,FALSE
+376,1986,6/6/1986,Group stage,Hungary,2,0,Canada,,FALSE
+377,1986,6/6/1986,Group stage,Brazil,1,0,Algeria,,FALSE
+378,1986,6/6/1986,Group stage,England,0,0,Morocco,,FALSE
+379,1986,6/7/1986,Group stage,Northern Ireland,1,2,Spain,,FALSE
+380,1986,6/7/1986,Group stage,Mexico,1,1,Paraguay,,TRUE
+381,1986,6/7/1986,Group stage,Poland,1,0,Portugal,,FALSE
+382,1986,6/8/1986,Group stage,Iraq,1,2,Belgium,,FALSE
+383,1986,6/8/1986,Group stage,Germany,2,1,Scotland,,FALSE
+384,1986,6/8/1986,Group stage,Denmark,6,1,Uruguay,,FALSE
+385,1986,6/9/1986,Group stage,Hungary,0,3,France,,FALSE
+386,1986,6/9/1986,Group stage,Russia,2,0,Canada,,FALSE
+387,1986,6/10/1986,Group stage,South Korea,2,3,Italy,,FALSE
+388,1986,6/10/1986,Group stage,Argentina,2,0,Bulgaria,,FALSE
+389,1986,6/11/1986,Group stage,Paraguay,2,2,Belgium,,FALSE
+390,1986,6/11/1986,Group stage,Mexico,1,0,Iraq,,TRUE
+391,1986,6/11/1986,Group stage,Portugal,1,3,Morocco,,FALSE
+392,1986,6/11/1986,Group stage,England,3,0,Poland,,FALSE
+393,1986,6/12/1986,Group stage,Northern Ireland,0,3,Brazil,,FALSE
+394,1986,6/12/1986,Group stage,Algeria,0,3,Spain,,FALSE
+395,1986,6/13/1986,Group stage,Scotland,0,0,Uruguay,,FALSE
+396,1986,6/13/1986,Group stage,Denmark,2,0,Germany,,FALSE
+397,1986,6/15/1986,Round of 16,Mexico,2,0,Bulgaria,,TRUE
+398,1986,6/15/1986,Round of 16,Russia,3,4,Belgium,Extra time,FALSE
+399,1986,6/16/1986,Round of 16,Brazil,4,0,Poland,,FALSE
+400,1986,6/16/1986,Round of 16,Argentina,1,0,Uruguay,,FALSE
+401,1986,6/17/1986,Round of 16,Italy,0,2,France,,FALSE
+402,1986,6/17/1986,Round of 16,Morocco,0,1,Germany,,FALSE
+403,1986,6/18/1986,Round of 16,England,3,0,Paraguay,,FALSE
+404,1986,6/18/1986,Round of 16,Denmark,1,5,Spain,,FALSE
+405,1986,6/21/1986,Quarter-finals,Brazil,1,1,France,France win on penalties (3 - 4),FALSE
+406,1986,6/21/1986,Quarter-finals,Mexico,0,0,Germany,Germany win on penalties (4 - 1),TRUE
+407,1986,6/22/1986,Quarter-finals,Argentina,2,1,England,,FALSE
+408,1986,6/22/1986,Quarter-finals,Spain,1,1,Belgium,Belgium win on penalties (4 - 5),FALSE
+409,1986,6/25/1986,Semi-finals,France,0,2,Germany,,FALSE
+410,1986,6/25/1986,Semi-finals,Argentina,2,0,Belgium,,FALSE
+411,1986,6/28/1986,Third place,France,4,2,Belgium,Extra time,FALSE
+412,1986,6/29/1986,Final,Argentina,3,2,Germany,,FALSE
+413,1990,6/8/1990,Group stage,Argentina,0,1,Cameroon,,FALSE
+414,1990,6/9/1990,Group stage,Russia,0,2,Romania,,FALSE
+415,1990,6/9/1990,Group stage,United Arab Emirates,0,2,Colombia,,FALSE
+416,1990,6/9/1990,Group stage,Italy,1,0,Austria,,TRUE
+417,1990,6/10/1990,Group stage,United States,1,5,Czechoslovakia,,FALSE
+418,1990,6/10/1990,Group stage,Brazil,2,1,Sweden,,FALSE
+419,1990,6/10/1990,Group stage,Germany,4,1,Yugoslavia,,FALSE
+420,1990,6/11/1990,Group stage,Costa Rica,1,0,Scotland,,FALSE
+421,1990,6/11/1990,Group stage,England,1,1,Republic of Ireland,,FALSE
+422,1990,6/12/1990,Group stage,Belgium,2,0,South Korea,,FALSE
+423,1990,6/12/1990,Group stage,Netherlands,1,1,Egypt,,FALSE
+424,1990,6/13/1990,Group stage,Uruguay,0,0,Spain,,FALSE
+425,1990,6/13/1990,Group stage,Argentina,2,0,Russia,,FALSE
+426,1990,6/14/1990,Group stage,Cameroon,2,1,Romania,,FALSE
+427,1990,6/14/1990,Group stage,Yugoslavia,1,0,Colombia,,FALSE
+428,1990,6/14/1990,Group stage,Italy,1,0,United States,,TRUE
+429,1990,6/15/1990,Group stage,Austria,0,1,Czechoslovakia,,FALSE
+430,1990,6/15/1990,Group stage,Germany,5,1,United Arab Emirates,,FALSE
+431,1990,6/16/1990,Group stage,Brazil,1,0,Costa Rica,,FALSE
+432,1990,6/16/1990,Group stage,Sweden,1,2,Scotland,,FALSE
+433,1990,6/16/1990,Group stage,England,0,0,Netherlands,,FALSE
+434,1990,6/17/1990,Group stage,Republic of Ireland,0,0,Egypt,,FALSE
+435,1990,6/17/1990,Group stage,South Korea,1,3,Spain,,FALSE
+436,1990,6/17/1990,Group stage,Belgium,3,1,Uruguay,,FALSE
+437,1990,6/18/1990,Group stage,Argentina,1,1,Romania,,FALSE
+438,1990,6/18/1990,Group stage,Cameroon,0,4,Russia,,FALSE
+439,1990,6/19/1990,Group stage,Germany,1,1,Colombia,,FALSE
+440,1990,6/19/1990,Group stage,Yugoslavia,4,1,United Arab Emirates,,FALSE
+441,1990,6/19/1990,Group stage,Italy,2,0,Czechoslovakia,,TRUE
+442,1990,6/19/1990,Group stage,Austria,2,1,United States,,FALSE
+443,1990,6/20/1990,Group stage,Brazil,1,0,Scotland,,FALSE
+444,1990,6/20/1990,Group stage,Sweden,1,2,Costa Rica,,FALSE
+445,1990,6/21/1990,Group stage,South Korea,0,1,Uruguay,,FALSE
+446,1990,6/21/1990,Group stage,Belgium,1,2,Spain,,FALSE
+447,1990,6/21/1990,Group stage,Republic of Ireland,1,1,Netherlands,,FALSE
+448,1990,6/21/1990,Group stage,England,1,0,Egypt,,FALSE
+449,1990,6/23/1990,Round of 16,Cameroon,2,1,Colombia,Extra time,FALSE
+450,1990,6/23/1990,Round of 16,Czechoslovakia,4,1,Costa Rica,,FALSE
+451,1990,6/24/1990,Round of 16,Brazil,0,1,Argentina,,FALSE
+452,1990,6/24/1990,Round of 16,Germany,2,1,Netherlands,,FALSE
+453,1990,6/25/1990,Round of 16,Republic of Ireland,0,0,Romania,Republic of Ireland win on penalties (5 - 4),FALSE
+454,1990,6/25/1990,Round of 16,Italy,2,0,Uruguay,,TRUE
+455,1990,6/26/1990,Round of 16,Spain,1,2,Yugoslavia,Extra time,FALSE
+456,1990,6/26/1990,Round of 16,England,1,0,Belgium,Extra time,FALSE
+457,1990,6/30/1990,Quarter-finals,Yugoslavia,0,0,Argentina,Argentina win on penalties (2 - 3),FALSE
+458,1990,6/30/1990,Quarter-finals,Italy,1,0,Republic of Ireland,,TRUE
+459,1990,7/1/1990,Quarter-finals,Germany,1,0,Czechoslovakia,,FALSE
+460,1990,7/1/1990,Quarter-finals,England,3,2,Cameroon,Extra time,FALSE
+461,1990,7/3/1990,Semi-finals,Italy,1,1,Argentina,Argentina win on penalties (3 - 4),TRUE
+462,1990,7/4/1990,Semi-finals,Germany,1,1,England,Germany win on penalties (4 - 3),FALSE
+463,1990,7/7/1990,Third place,Italy,2,1,England,,TRUE
+464,1990,7/8/1990,Final,Germany,1,0,Argentina,,FALSE
+465,1994,6/17/1994,Group stage,Germany,1,0,Bolivia,,FALSE
+466,1994,6/17/1994,Group stage,Spain,2,2,South Korea,,FALSE
+467,1994,6/18/1994,Group stage,United States,1,1,Switzerland,,TRUE
+468,1994,6/18/1994,Group stage,Italy,0,1,Republic of Ireland,,FALSE
+469,1994,6/18/1994,Group stage,Colombia,1,3,Romania,,FALSE
+470,1994,6/19/1994,Group stage,Belgium,1,0,Morocco,,FALSE
+471,1994,6/19/1994,Group stage,Norway,1,0,Mexico,,FALSE
+472,1994,6/19/1994,Group stage,Cameroon,2,2,Sweden,,FALSE
+473,1994,6/20/1994,Group stage,Brazil,2,0,Russia,,FALSE
+474,1994,6/20/1994,Group stage,Netherlands,2,1,Saudi Arabia,,FALSE
+475,1994,6/21/1994,Group stage,Argentina,4,0,Greece,,FALSE
+476,1994,6/21/1994,Group stage,Germany,1,1,Spain,,FALSE
+477,1994,6/21/1994,Group stage,Nigeria,3,0,Bulgaria,,FALSE
+478,1994,6/22/1994,Group stage,Romania,1,4,Switzerland,,FALSE
+479,1994,6/22/1994,Group stage,United States,2,1,Colombia,,TRUE
+480,1994,6/23/1994,Group stage,Italy,1,0,Norway,,FALSE
+481,1994,6/23/1994,Group stage,South Korea,0,0,Bolivia,,FALSE
+482,1994,6/24/1994,Group stage,Mexico,2,1,Republic of Ireland,,FALSE
+483,1994,6/24/1994,Group stage,Brazil,3,0,Cameroon,,FALSE
+484,1994,6/24/1994,Group stage,Sweden,3,1,Russia,,FALSE
+485,1994,6/25/1994,Group stage,Belgium,1,0,Netherlands,,FALSE
+486,1994,6/25/1994,Group stage,Saudi Arabia,2,1,Morocco,,FALSE
+487,1994,6/25/1994,Group stage,Argentina,2,1,Nigeria,,FALSE
+488,1994,6/26/1994,Group stage,Bulgaria,4,0,Greece,,FALSE
+489,1994,6/26/1994,Group stage,United States,0,1,Romania,,TRUE
+490,1994,6/26/1994,Group stage,Switzerland,0,2,Colombia,,FALSE
+491,1994,6/27/1994,Group stage,Germany,3,2,South Korea,,FALSE
+492,1994,6/27/1994,Group stage,Bolivia,1,3,Spain,,FALSE
+493,1994,6/28/1994,Group stage,Republic of Ireland,0,0,Norway,,FALSE
+494,1994,6/28/1994,Group stage,Italy,1,1,Mexico,,FALSE
+495,1994,6/28/1994,Group stage,Brazil,1,1,Sweden,,FALSE
+496,1994,6/28/1994,Group stage,Russia,6,1,Cameroon,,FALSE
+497,1994,6/29/1994,Group stage,Morocco,1,2,Netherlands,,FALSE
+498,1994,6/29/1994,Group stage,Belgium,0,1,Saudi Arabia,,FALSE
+499,1994,6/30/1994,Group stage,Greece,0,2,Nigeria,,FALSE
+500,1994,6/30/1994,Group stage,Argentina,0,2,Bulgaria,,FALSE
+501,1994,7/2/1994,Round of 16,Germany,3,2,Belgium,,FALSE
+502,1994,7/2/1994,Round of 16,Spain,3,0,Switzerland,,FALSE
+503,1994,7/3/1994,Round of 16,Saudi Arabia,1,3,Sweden,,FALSE
+504,1994,7/3/1994,Round of 16,Romania,3,2,Argentina,,FALSE
+505,1994,7/4/1994,Round of 16,Netherlands,2,0,Republic of Ireland,,FALSE
+506,1994,7/4/1994,Round of 16,United States,0,1,Brazil,,TRUE
+507,1994,7/5/1994,Round of 16,Nigeria,1,2,Italy,Extra time,FALSE
+508,1994,7/5/1994,Round of 16,Mexico,1,1,Bulgaria,Bulgaria win on penalties (1 - 3),FALSE
+509,1994,7/9/1994,Quarter-finals,Italy,2,1,Spain,,FALSE
+510,1994,7/9/1994,Quarter-finals,Netherlands,2,3,Brazil,,FALSE
+511,1994,7/10/1994,Quarter-finals,Bulgaria,2,1,Germany,,FALSE
+512,1994,7/10/1994,Quarter-finals,Romania,2,2,Sweden,Sweden win on penalties (4 - 5),FALSE
+513,1994,7/13/1994,Semi-finals,Bulgaria,1,2,Italy,,FALSE
+514,1994,7/13/1994,Semi-finals,Sweden,0,1,Brazil,,FALSE
+515,1994,7/16/1994,Third place,Sweden,4,0,Bulgaria,,FALSE
+516,1994,7/17/1994,Final,Brazil,0,0,Italy,Brazil win on penalties (3 - 2),FALSE
+517,1998,6/10/1998,Group stage,Brazil,2,1,Scotland,,FALSE
+518,1998,6/10/1998,Group stage,Morocco,2,2,Norway,,FALSE
+519,1998,6/11/1998,Group stage,Italy,2,2,Chile,,FALSE
+520,1998,6/11/1998,Group stage,Cameroon,1,1,Austria,,FALSE
+521,1998,6/12/1998,Group stage,Paraguay,0,0,Bulgaria,,FALSE
+522,1998,6/12/1998,Group stage,Saudi Arabia,0,1,Denmark,,FALSE
+523,1998,6/12/1998,Group stage,France,3,0,South Africa,,TRUE
+524,1998,6/13/1998,Group stage,Spain,2,3,Nigeria,,FALSE
+525,1998,6/13/1998,Group stage,South Korea,1,3,Mexico,,FALSE
+526,1998,6/13/1998,Group stage,Netherlands,0,0,Belgium,,FALSE
+527,1998,6/14/1998,Group stage,Argentina,1,0,Japan,,FALSE
+528,1998,6/14/1998,Group stage,Yugoslavia,1,0,Iran,,FALSE
+529,1998,6/14/1998,Group stage,Jamaica,1,3,Croatia,,FALSE
+530,1998,6/15/1998,Group stage,England,2,0,Tunisia,,FALSE
+531,1998,6/15/1998,Group stage,Romania,1,0,Colombia,,FALSE
+532,1998,6/15/1998,Group stage,Germany,2,0,United States,,FALSE
+533,1998,6/16/1998,Group stage,Scotland,1,1,Norway,,FALSE
+534,1998,6/16/1998,Group stage,Brazil,3,0,Morocco,,FALSE
+535,1998,6/17/1998,Group stage,Chile,1,1,Austria,,FALSE
+536,1998,6/17/1998,Group stage,Italy,3,0,Cameroon,,FALSE
+537,1998,6/18/1998,Group stage,South Africa,1,1,Denmark,,FALSE
+538,1998,6/18/1998,Group stage,France,4,0,Saudi Arabia,,TRUE
+539,1998,6/19/1998,Group stage,Nigeria,1,0,Bulgaria,,FALSE
+540,1998,6/19/1998,Group stage,Spain,0,0,Paraguay,,FALSE
+541,1998,6/20/1998,Group stage,Japan,0,1,Croatia,,FALSE
+542,1998,6/20/1998,Group stage,Belgium,2,2,Mexico,,FALSE
+543,1998,6/20/1998,Group stage,Netherlands,5,0,South Korea,,FALSE
+544,1998,6/21/1998,Group stage,Germany,2,2,Yugoslavia,,FALSE
+545,1998,6/21/1998,Group stage,Argentina,5,0,Jamaica,,FALSE
+546,1998,6/21/1998,Group stage,United States,1,2,Iran,,FALSE
+547,1998,6/22/1998,Group stage,Colombia,1,0,Tunisia,,FALSE
+548,1998,6/22/1998,Group stage,Romania,2,1,England,,FALSE
+549,1998,6/23/1998,Group stage,Italy,2,1,Austria,,FALSE
+550,1998,6/23/1998,Group stage,Chile,1,1,Cameroon,,FALSE
+551,1998,6/23/1998,Group stage,Scotland,0,3,Morocco,,FALSE
+552,1998,6/23/1998,Group stage,Brazil,1,2,Norway,,FALSE
+553,1998,6/24/1998,Group stage,France,2,1,Denmark,,TRUE
+554,1998,6/24/1998,Group stage,South Africa,2,2,Saudi Arabia,,FALSE
+555,1998,6/24/1998,Group stage,Spain,6,1,Bulgaria,,FALSE
+556,1998,6/24/1998,Group stage,Nigeria,1,3,Paraguay,,FALSE
+557,1998,6/25/1998,Group stage,Belgium,1,1,South Korea,,FALSE
+558,1998,6/25/1998,Group stage,Netherlands,2,2,Mexico,,FALSE
+559,1998,6/25/1998,Group stage,Germany,2,0,Iran,,FALSE
+560,1998,6/25/1998,Group stage,United States,0,1,Yugoslavia,,FALSE
+561,1998,6/26/1998,Group stage,Japan,1,2,Jamaica,,FALSE
+562,1998,6/26/1998,Group stage,Argentina,1,0,Croatia,,FALSE
+563,1998,6/26/1998,Group stage,Romania,1,1,Tunisia,,FALSE
+564,1998,6/26/1998,Group stage,Colombia,0,2,England,,FALSE
+565,1998,6/27/1998,Round of 16,Italy,1,0,Norway,,FALSE
+566,1998,6/27/1998,Round of 16,Brazil,4,1,Chile,,FALSE
+567,1998,6/28/1998,Round of 16,France,1,0,Paraguay,Extra time,TRUE
+568,1998,6/28/1998,Round of 16,Nigeria,1,4,Denmark,,FALSE
+569,1998,6/29/1998,Round of 16,Germany,2,1,Mexico,,FALSE
+570,1998,6/29/1998,Round of 16,Netherlands,2,1,Yugoslavia,,FALSE
+571,1998,6/30/1998,Round of 16,Romania,0,1,Croatia,,FALSE
+572,1998,6/30/1998,Round of 16,Argentina,2,2,England,Argentina win on penalties (4 - 3),FALSE
+573,1998,7/3/1998,Quarter-finals,France,0,0,Italy,France win on penalties (3 - 4),TRUE
+574,1998,7/3/1998,Quarter-finals,Brazil,3,2,Denmark,,FALSE
+575,1998,7/4/1998,Quarter-finals,Netherlands,2,1,Argentina,,FALSE
+576,1998,7/4/1998,Quarter-finals,Germany,0,3,Croatia,,FALSE
+577,1998,7/7/1998,Semi-finals,Brazil,1,1,Netherlands,Brazil win on penalties (4 - 2),FALSE
+578,1998,7/8/1998,Semi-finals,France,2,1,Croatia,,TRUE
+579,1998,7/11/1998,Third place,Netherlands,1,2,Croatia,,FALSE
+580,1998,7/12/1998,Final,France,3,0,Brazil,,TRUE
+581,2002,5/31/2002,Group stage,France,0,1,Senegal,,FALSE
+582,2002,6/1/2002,Group stage,Republic of Ireland,1,1,Cameroon,,FALSE
+583,2002,6/1/2002,Group stage,Uruguay,1,2,Denmark,,FALSE
+584,2002,6/1/2002,Group stage,Germany,8,0,Saudi Arabia,,FALSE
+585,2002,6/2/2002,Group stage,Argentina,1,0,Nigeria,,FALSE
+586,2002,6/2/2002,Group stage,Paraguay,2,2,South Africa,,FALSE
+587,2002,6/2/2002,Group stage,England,1,1,Sweden,,FALSE
+588,2002,6/2/2002,Group stage,Spain,3,1,Slovenia,,FALSE
+589,2002,6/3/2002,Group stage,Croatia,0,1,Mexico,,FALSE
+590,2002,6/3/2002,Group stage,Brazil,2,1,Turkey,,FALSE
+591,2002,6/3/2002,Group stage,Italy,2,0,Ecuador,,FALSE
+592,2002,6/4/2002,Group stage,China,0,2,Costa Rica,,FALSE
+593,2002,6/4/2002,Group stage,Japan,2,2,Belgium,,TRUE
+594,2002,6/4/2002,Group stage,South Korea,2,0,Poland,,TRUE
+595,2002,6/5/2002,Group stage,Russia,2,0,Tunisia,,FALSE
+596,2002,6/5/2002,Group stage,United States,3,2,Portugal,,FALSE
+597,2002,6/5/2002,Group stage,Germany,1,1,Republic of Ireland,,FALSE
+598,2002,6/6/2002,Group stage,Denmark,1,1,Senegal,,FALSE
+599,2002,6/6/2002,Group stage,Cameroon,1,0,Saudi Arabia,,FALSE
+600,2002,6/6/2002,Group stage,France,0,0,Uruguay,,FALSE
+601,2002,6/7/2002,Group stage,Sweden,2,1,Nigeria,,FALSE
+602,2002,6/7/2002,Group stage,Spain,3,1,Paraguay,,FALSE
+603,2002,6/7/2002,Group stage,Argentina,0,1,England,,FALSE
+604,2002,6/8/2002,Group stage,South Africa,1,0,Slovenia,,FALSE
+605,2002,6/8/2002,Group stage,Italy,1,2,Croatia,,FALSE
+606,2002,6/8/2002,Group stage,Brazil,4,0,China,,FALSE
+607,2002,6/9/2002,Group stage,Mexico,2,1,Ecuador,,FALSE
+608,2002,6/9/2002,Group stage,Costa Rica,1,1,Turkey,,FALSE
+609,2002,6/9/2002,Group stage,Japan,1,0,Russia,,TRUE
+610,2002,6/10/2002,Group stage,South Korea,1,1,United States,,TRUE
+611,2002,6/10/2002,Group stage,Tunisia,1,1,Belgium,,FALSE
+612,2002,6/10/2002,Group stage,Portugal,4,0,Poland,,FALSE
+613,2002,6/11/2002,Group stage,Denmark,2,0,France,,FALSE
+614,2002,6/11/2002,Group stage,Senegal,3,3,Uruguay,,FALSE
+615,2002,6/11/2002,Group stage,Saudi Arabia,0,3,Republic of Ireland,,FALSE
+616,2002,6/11/2002,Group stage,Cameroon,0,2,Germany,,FALSE
+617,2002,6/12/2002,Group stage,Sweden,1,1,Argentina,,FALSE
+618,2002,6/12/2002,Group stage,Nigeria,0,0,England,,FALSE
+619,2002,6/12/2002,Group stage,Slovenia,1,3,Paraguay,,FALSE
+620,2002,6/12/2002,Group stage,South Africa,2,3,Spain,,FALSE
+621,2002,6/13/2002,Group stage,Costa Rica,2,5,Brazil,,FALSE
+622,2002,6/13/2002,Group stage,Turkey,3,0,China,,FALSE
+623,2002,6/13/2002,Group stage,Ecuador,1,0,Croatia,,FALSE
+624,2002,6/13/2002,Group stage,Mexico,1,1,Italy,,FALSE
+625,2002,6/14/2002,Group stage,Japan,2,0,Tunisia,,TRUE
+626,2002,6/14/2002,Group stage,Belgium,3,2,Russia,,FALSE
+627,2002,6/14/2002,Group stage,South Korea,1,0,Portugal,,TRUE
+628,2002,6/14/2002,Group stage,Poland,3,1,United States,,FALSE
+629,2002,6/15/2002,Round of 16,Germany,1,0,Paraguay,,FALSE
+630,2002,6/15/2002,Round of 16,Denmark,0,3,England,,FALSE
+631,2002,6/16/2002,Round of 16,Sweden,1,2,Senegal,Golden goal,FALSE
+632,2002,6/16/2002,Round of 16,Spain,1,1,Republic of Ireland,Spain win on penalties (3 - 2),FALSE
+633,2002,6/17/2002,Round of 16,Mexico,0,2,United States,,FALSE
+634,2002,6/17/2002,Round of 16,Brazil,2,0,Belgium,,FALSE
+635,2002,6/18/2002,Round of 16,Japan,0,1,Turkey,,TRUE
+636,2002,6/18/2002,Round of 16,South Korea,2,1,Italy,Golden goal,TRUE
+637,2002,6/21/2002,Quarter-finals,England,1,2,Brazil,,FALSE
+638,2002,6/21/2002,Quarter-finals,Germany,1,0,United States,,FALSE
+639,2002,6/22/2002,Quarter-finals,South Korea,0,0,Spain,South Korea win on penalties (3 - 5),TRUE
+640,2002,6/22/2002,Quarter-finals,Senegal,0,1,Turkey,Golden goal,FALSE
+641,2002,6/25/2002,Semi-finals,South Korea,0,1,Germany,,TRUE
+642,2002,6/26/2002,Semi-finals,Brazil,1,0,Turkey,,FALSE
+643,2002,6/29/2002,Third place,South Korea,2,3,Turkey,,TRUE
+644,2002,6/30/2002,Final,Germany,0,2,Brazil,,FALSE
+645,2006,6/9/2006,Group stage,Germany,4,2,Costa Rica,,TRUE
+646,2006,6/9/2006,Group stage,Poland,0,2,Ecuador,,FALSE
+647,2006,6/10/2006,Group stage,England,1,0,Paraguay,,FALSE
+648,2006,6/10/2006,Group stage,Trinidad and Tobago,0,0,Sweden,,FALSE
+649,2006,6/10/2006,Group stage,Argentina,2,1,Ivory Coast,,FALSE
+650,2006,6/11/2006,Group stage,Serbia,0,1,Netherlands,,FALSE
+651,2006,6/11/2006,Group stage,Mexico,3,1,Iran,,FALSE
+652,2006,6/11/2006,Group stage,Angola,0,1,Portugal,,FALSE
+653,2006,6/12/2006,Group stage,Australia,3,1,Japan,,FALSE
+654,2006,6/12/2006,Group stage,United States,0,3,Czech Republic,,FALSE
+655,2006,6/12/2006,Group stage,Italy,2,0,Ghana,,FALSE
+656,2006,6/13/2006,Group stage,South Korea,2,1,Togo,,FALSE
+657,2006,6/13/2006,Group stage,France,0,0,Switzerland,,FALSE
+658,2006,6/13/2006,Group stage,Brazil,1,0,Croatia,,FALSE
+659,2006,6/14/2006,Group stage,Spain,4,0,Ukraine,,FALSE
+660,2006,6/14/2006,Group stage,Tunisia,2,2,Saudi Arabia,,FALSE
+661,2006,6/14/2006,Group stage,Germany,1,0,Poland,,TRUE
+662,2006,6/15/2006,Group stage,Ecuador,3,0,Costa Rica,,FALSE
+663,2006,6/15/2006,Group stage,England,2,0,Trinidad and Tobago,,FALSE
+664,2006,6/15/2006,Group stage,Sweden,1,0,Paraguay,,FALSE
+665,2006,6/16/2006,Group stage,Argentina,6,0,Serbia,,FALSE
+666,2006,6/16/2006,Group stage,Netherlands,2,1,Ivory Coast,,FALSE
+667,2006,6/16/2006,Group stage,Mexico,0,0,Angola,,FALSE
+668,2006,6/17/2006,Group stage,Portugal,2,0,Iran,,FALSE
+669,2006,6/17/2006,Group stage,Czech Republic,0,2,Ghana,,FALSE
+670,2006,6/17/2006,Group stage,Italy,1,1,United States,,FALSE
+671,2006,6/18/2006,Group stage,Japan,0,0,Croatia,,FALSE
+672,2006,6/18/2006,Group stage,Brazil,2,0,Australia,,FALSE
+673,2006,6/18/2006,Group stage,France,1,1,South Korea,,FALSE
+674,2006,6/19/2006,Group stage,Togo,0,2,Switzerland,,FALSE
+675,2006,6/19/2006,Group stage,Saudi Arabia,0,4,Ukraine,,FALSE
+676,2006,6/19/2006,Group stage,Spain,3,1,Tunisia,,FALSE
+677,2006,6/20/2006,Group stage,Germany,3,0,Ecuador,,TRUE
+678,2006,6/20/2006,Group stage,Costa Rica,1,2,Poland,,FALSE
+679,2006,6/20/2006,Group stage,Sweden,2,2,England,,FALSE
+680,2006,6/20/2006,Group stage,Paraguay,2,0,Trinidad and Tobago,,FALSE
+681,2006,6/21/2006,Group stage,Iran,1,1,Angola,,FALSE
+682,2006,6/21/2006,Group stage,Portugal,2,1,Mexico,,FALSE
+683,2006,6/21/2006,Group stage,Netherlands,0,0,Argentina,,FALSE
+684,2006,6/21/2006,Group stage,Ivory Coast,3,2,Serbia,,FALSE
+685,2006,6/22/2006,Group stage,Czech Republic,0,2,Italy,,FALSE
+686,2006,6/22/2006,Group stage,Ghana,2,1,United States,,FALSE
+687,2006,6/22/2006,Group stage,Japan,1,4,Brazil,,FALSE
+688,2006,6/22/2006,Group stage,Croatia,2,2,Australia,,FALSE
+689,2006,6/23/2006,Group stage,Ukraine,1,0,Tunisia,,FALSE
+690,2006,6/23/2006,Group stage,Saudi Arabia,0,1,Spain,,FALSE
+691,2006,6/23/2006,Group stage,Togo,0,2,France,,FALSE
+692,2006,6/23/2006,Group stage,Switzerland,2,0,South Korea,,FALSE
+693,2006,6/24/2006,Round of 16,Germany,2,0,Sweden,,TRUE
+694,2006,6/24/2006,Round of 16,Argentina,2,1,Mexico,Extra time,FALSE
+695,2006,6/25/2006,Round of 16,England,1,0,Ecuador,,FALSE
+696,2006,6/25/2006,Round of 16,Portugal,1,0,Netherlands,,FALSE
+697,2006,6/26/2006,Round of 16,Italy,1,0,Australia,,FALSE
+698,2006,6/26/2006,Round of 16,Switzerland,0,0,Ukraine,Ukraine win on penalties (0 - 3),FALSE
+699,2006,6/27/2006,Round of 16,Brazil,3,0,Ghana,,FALSE
+700,2006,6/27/2006,Round of 16,Spain,1,3,France,,FALSE
+701,2006,6/30/2006,Quarter-finals,Germany,1,1,Argentina,Germany win on penalties (4 - 2),TRUE
+702,2006,6/30/2006,Quarter-finals,Italy,3,0,Ukraine,,FALSE
+703,2006,7/1/2006,Quarter-finals,England,0,0,Portugal,Portugal win on penalties (1 - 3),FALSE
+704,2006,7/1/2006,Quarter-finals,Brazil,0,1,France,,FALSE
+705,2006,7/4/2006,Semi-finals,Germany,0,2,Italy,Extra time,TRUE
+706,2006,7/5/2006,Semi-finals,Portugal,0,1,France,,FALSE
+707,2006,7/8/2006,Third place,Germany,3,1,Portugal,,TRUE
+708,2006,7/9/2006,Final,Italy,1,1,France,Italy win on penalties (5 - 3),FALSE
+709,2010,6/11/2010,Group stage,South Africa,1,1,Mexico,,TRUE
+710,2010,6/11/2010,Group stage,Uruguay,0,0,France,,FALSE
+711,2010,6/12/2010,Group stage,South Korea,2,0,Greece,,FALSE
+712,2010,6/12/2010,Group stage,Argentina,1,0,Nigeria,,FALSE
+713,2010,6/12/2010,Group stage,England,1,1,United States,,FALSE
+714,2010,6/13/2010,Group stage,Algeria,0,1,Slovenia,,FALSE
+715,2010,6/13/2010,Group stage,Serbia,0,1,Ghana,,FALSE
+716,2010,6/13/2010,Group stage,Germany,4,0,Australia,,FALSE
+717,2010,6/14/2010,Group stage,Netherlands,2,0,Denmark,,FALSE
+718,2010,6/14/2010,Group stage,Japan,1,0,Cameroon,,FALSE
+719,2010,6/14/2010,Group stage,Italy,1,1,Paraguay,,FALSE
+720,2010,6/15/2010,Group stage,New Zealand,1,1,Slovakia,,FALSE
+721,2010,6/15/2010,Group stage,Ivory Coast,0,0,Portugal,,FALSE
+722,2010,6/15/2010,Group stage,Brazil,2,1,North Korea,,FALSE
+723,2010,6/16/2010,Group stage,Honduras,0,1,Chile,,FALSE
+724,2010,6/16/2010,Group stage,Spain,0,1,Switzerland,,FALSE
+725,2010,6/16/2010,Group stage,South Africa,0,3,Uruguay,,TRUE
+726,2010,6/17/2010,Group stage,Argentina,4,1,South Korea,,FALSE
+727,2010,6/17/2010,Group stage,Greece,2,1,Nigeria,,FALSE
+728,2010,6/17/2010,Group stage,France,0,2,Mexico,,FALSE
+729,2010,6/18/2010,Group stage,Germany,0,1,Serbia,,FALSE
+730,2010,6/18/2010,Group stage,Slovenia,2,2,United States,,FALSE
+731,2010,6/18/2010,Group stage,England,0,0,Algeria,,FALSE
+732,2010,6/19/2010,Group stage,Netherlands,1,0,Japan,,FALSE
+733,2010,6/19/2010,Group stage,Ghana,1,1,Australia,,FALSE
+734,2010,6/19/2010,Group stage,Cameroon,1,2,Denmark,,FALSE
+735,2010,6/20/2010,Group stage,Slovakia,0,2,Paraguay,,FALSE
+736,2010,6/20/2010,Group stage,Italy,1,1,New Zealand,,FALSE
+737,2010,6/20/2010,Group stage,Brazil,3,1,Ivory Coast,,FALSE
+738,2010,6/21/2010,Group stage,Portugal,7,0,North Korea,,FALSE
+739,2010,6/21/2010,Group stage,Chile,1,0,Switzerland,,FALSE
+740,2010,6/21/2010,Group stage,Spain,2,0,Honduras,,FALSE
+741,2010,6/22/2010,Group stage,Mexico,0,1,Uruguay,,FALSE
+742,2010,6/22/2010,Group stage,South Africa,2,1,France,,TRUE
+743,2010,6/22/2010,Group stage,Nigeria,2,2,South Korea,,FALSE
+744,2010,6/22/2010,Group stage,Greece,0,2,Argentina,,FALSE
+745,2010,6/23/2010,Group stage,Slovenia,0,1,England,,FALSE
+746,2010,6/23/2010,Group stage,United States,1,0,Algeria,,FALSE
+747,2010,6/23/2010,Group stage,Ghana,0,1,Germany,,FALSE
+748,2010,6/23/2010,Group stage,Australia,2,1,Serbia,,FALSE
+749,2010,6/24/2010,Group stage,Slovakia,3,2,Italy,,FALSE
+750,2010,6/24/2010,Group stage,Paraguay,0,0,New Zealand,,FALSE
+751,2010,6/24/2010,Group stage,Denmark,1,3,Japan,,FALSE
+752,2010,6/24/2010,Group stage,Cameroon,1,2,Netherlands,,FALSE
+753,2010,6/25/2010,Group stage,Portugal,0,0,Brazil,,FALSE
+754,2010,6/25/2010,Group stage,North Korea,0,3,Ivory Coast,,FALSE
+755,2010,6/25/2010,Group stage,Chile,1,2,Spain,,FALSE
+756,2010,6/25/2010,Group stage,Switzerland,0,0,Honduras,,FALSE
+757,2010,6/26/2010,Round of 16,Uruguay,2,1,South Korea,,FALSE
+758,2010,6/26/2010,Round of 16,United States,1,2,Ghana,Extra time,FALSE
+759,2010,6/27/2010,Round of 16,Germany,4,1,England,,FALSE
+760,2010,6/27/2010,Round of 16,Argentina,3,1,Mexico,,FALSE
+761,2010,6/28/2010,Round of 16,Netherlands,2,1,Slovakia,,FALSE
+762,2010,6/28/2010,Round of 16,Brazil,3,0,Chile,,FALSE
+763,2010,6/29/2010,Round of 16,Paraguay,0,0,Japan,Paraguay win on penalties (5 - 3),FALSE
+764,2010,6/29/2010,Round of 16,Spain,1,0,Portugal,,FALSE
+765,2010,7/2/2010,Quarter-finals,Netherlands,2,1,Brazil,,FALSE
+766,2010,7/2/2010,Quarter-finals,Uruguay,1,1,Ghana,Uruguay win on penalties (4 - 2),FALSE
+767,2010,7/3/2010,Quarter-finals,Argentina,0,4,Germany,,FALSE
+768,2010,7/3/2010,Quarter-finals,Paraguay,0,1,Spain,,FALSE
+769,2010,7/6/2010,Semi-finals,Uruguay,2,3,Netherlands,,FALSE
+770,2010,7/7/2010,Semi-finals,Germany,0,1,Spain,,FALSE
+771,2010,7/10/2010,Third place,Uruguay,2,3,Germany,,FALSE
+772,2010,7/11/2010,Final,Netherlands,0,1,Spain,Extra time,FALSE
+773,2014,6/12/2014,Group stage,Brazil,3,1,Croatia,,TRUE
+774,2014,6/13/2014,Group stage,Mexico,1,0,Cameroon,,FALSE
+775,2014,6/13/2014,Group stage,Spain,1,5,Netherlands,,FALSE
+776,2014,6/13/2014,Group stage,Chile,3,1,Australia,,FALSE
+777,2014,6/14/2014,Group stage,Colombia,3,0,Greece,,FALSE
+778,2014,6/14/2014,Group stage,Uruguay,1,3,Costa Rica,,FALSE
+779,2014,6/14/2014,Group stage,England,1,2,Italy,,FALSE
+780,2014,6/14/2014,Group stage,Ivory Coast,2,1,Japan,,FALSE
+781,2014,6/15/2014,Group stage,Switzerland,2,1,Ecuador,,FALSE
+782,2014,6/15/2014,Group stage,France,3,0,Honduras,,FALSE
+783,2014,6/15/2014,Group stage,Argentina,2,1,Bosnia and Herzegovina,,FALSE
+784,2014,6/16/2014,Group stage,Germany,4,0,Portugal,,FALSE
+785,2014,6/16/2014,Group stage,Iran,0,0,Nigeria,,FALSE
+786,2014,6/16/2014,Group stage,Ghana,1,2,United States,,FALSE
+787,2014,6/17/2014,Group stage,Belgium,2,1,Algeria,,FALSE
+788,2014,6/17/2014,Group stage,Brazil,0,0,Mexico,,TRUE
+789,2014,6/17/2014,Group stage,Russia,1,1,South Korea,,FALSE
+790,2014,6/18/2014,Group stage,Australia,2,3,Netherlands,,FALSE
+791,2014,6/18/2014,Group stage,Spain,0,2,Chile,,FALSE
+792,2014,6/18/2014,Group stage,Cameroon,0,4,Croatia,,FALSE
+793,2014,6/19/2014,Group stage,Colombia,2,1,Ivory Coast,,FALSE
+794,2014,6/19/2014,Group stage,Uruguay,2,1,England,,FALSE
+795,2014,6/19/2014,Group stage,Japan,0,0,Greece,,FALSE
+796,2014,6/20/2014,Group stage,Italy,0,1,Costa Rica,,FALSE
+797,2014,6/20/2014,Group stage,Switzerland,2,5,France,,FALSE
+798,2014,6/20/2014,Group stage,Honduras,1,2,Ecuador,,FALSE
+799,2014,6/21/2014,Group stage,Argentina,1,0,Iran,,FALSE
+800,2014,6/21/2014,Group stage,Germany,2,2,Ghana,,FALSE
+801,2014,6/21/2014,Group stage,Nigeria,1,0,Bosnia and Herzegovina,,FALSE
+802,2014,6/22/2014,Group stage,Belgium,1,0,Russia,,FALSE
+803,2014,6/22/2014,Group stage,South Korea,2,4,Algeria,,FALSE
+804,2014,6/22/2014,Group stage,United States,2,2,Portugal,,FALSE
+805,2014,6/23/2014,Group stage,Australia,0,3,Spain,,FALSE
+806,2014,6/23/2014,Group stage,Netherlands,2,0,Chile,,FALSE
+807,2014,6/23/2014,Group stage,Brazil,4,1,Cameroon,,TRUE
+808,2014,6/23/2014,Group stage,Croatia,1,3,Mexico,,FALSE
+809,2014,6/24/2014,Group stage,Italy,0,1,Uruguay,,FALSE
+810,2014,6/24/2014,Group stage,Costa Rica,0,0,England,,FALSE
+811,2014,6/24/2014,Group stage,Japan,1,4,Colombia,,FALSE
+812,2014,6/24/2014,Group stage,Greece,2,1,Ivory Coast,,FALSE
+813,2014,6/25/2014,Group stage,Nigeria,2,3,Argentina,,FALSE
+814,2014,6/25/2014,Group stage,Bosnia and Herzegovina,3,1,Iran,,FALSE
+815,2014,6/25/2014,Group stage,Honduras,0,3,Switzerland,,FALSE
+816,2014,6/25/2014,Group stage,Ecuador,0,0,France,,FALSE
+817,2014,6/26/2014,Group stage,United States,0,1,Germany,,FALSE
+818,2014,6/26/2014,Group stage,Portugal,2,1,Ghana,,FALSE
+819,2014,6/26/2014,Group stage,South Korea,0,1,Belgium,,FALSE
+820,2014,6/26/2014,Group stage,Algeria,1,1,Russia,,FALSE
+821,2014,6/28/2014,Round of 16,Brazil,1,1,Chile,Brazil win on penalties (3 - 2),TRUE
+822,2014,6/28/2014,Round of 16,Colombia,2,0,Uruguay,,FALSE
+823,2014,6/29/2014,Round of 16,Netherlands,2,1,Mexico,,FALSE
+824,2014,6/29/2014,Round of 16,Costa Rica,1,1,Greece,Costa Rica win on penalties (5 - 3),FALSE
+825,2014,6/30/2014,Round of 16,France,2,0,Nigeria,,FALSE
+826,2014,6/30/2014,Round of 16,Germany,2,1,Algeria,Extra time,FALSE
+827,2014,7/1/2014,Round of 16,Argentina,1,0,Switzerland,Extra time,FALSE
+828,2014,7/1/2014,Round of 16,Belgium,2,1,United States,Extra time,FALSE
+829,2014,7/4/2014,Quarter-finals,France,0,1,Germany,,FALSE
+830,2014,7/4/2014,Quarter-finals,Brazil,2,1,Colombia,,TRUE
+831,2014,7/5/2014,Quarter-finals,Argentina,1,0,Belgium,,FALSE
+832,2014,7/5/2014,Quarter-finals,Netherlands,0,0,Costa Rica,Netherlands win on penalties (4 - 3),FALSE
+833,2014,7/8/2014,Semi-finals,Brazil,1,7,Germany,,TRUE
+834,2014,7/9/2014,Semi-finals,Netherlands,0,0,Argentina,Argentina win on penalties (2 - 4),FALSE
+835,2014,7/12/2014,Third place,Brazil,0,3,Netherlands,,TRUE
+836,2014,7/13/2014,Final,Germany,1,0,Argentina,Extra time,FALSE
+837,2018,6/14/2018,Group stage,Russia,5,0,Saudi Arabia,,TRUE
+838,2018,6/15/2018,Group stage,Egypt,0,1,Uruguay,,FALSE
+839,2018,6/15/2018,Group stage,Morocco,0,1,Iran,,FALSE
+840,2018,6/15/2018,Group stage,Portugal,3,3,Spain,,FALSE
+841,2018,6/16/2018,Group stage,France,2,1,Australia,,FALSE
+842,2018,6/16/2018,Group stage,Argentina,1,1,Iceland,,FALSE
+843,2018,6/16/2018,Group stage,Peru,0,1,Denmark,,FALSE
+844,2018,6/16/2018,Group stage,Croatia,2,0,Nigeria,,FALSE
+845,2018,6/17/2018,Group stage,Costa Rica,0,1,Serbia,,FALSE
+846,2018,6/17/2018,Group stage,Germany,0,1,Mexico,,FALSE
+847,2018,6/17/2018,Group stage,Brazil,1,1,Switzerland,,FALSE
+848,2018,6/18/2018,Group stage,Sweden,1,0,South Korea,,FALSE
+849,2018,6/18/2018,Group stage,Belgium,3,0,Panama,,FALSE
+850,2018,6/18/2018,Group stage,Tunisia,1,2,England,,FALSE
+851,2018,6/19/2018,Group stage,Colombia,1,2,Japan,,FALSE
+852,2018,6/19/2018,Group stage,Poland,1,2,Senegal,,FALSE
+853,2018,6/19/2018,Group stage,Russia,3,1,Egypt,,TRUE
+854,2018,6/20/2018,Group stage,Portugal,1,0,Morocco,,FALSE
+855,2018,6/20/2018,Group stage,Uruguay,1,0,Saudi Arabia,,FALSE
+856,2018,6/20/2018,Group stage,Iran,0,1,Spain,,FALSE
+857,2018,6/21/2018,Group stage,Denmark,1,1,Australia,,FALSE
+858,2018,6/21/2018,Group stage,France,1,0,Peru,,FALSE
+859,2018,6/21/2018,Group stage,Argentina,0,3,Croatia,,FALSE
+860,2018,6/22/2018,Group stage,Brazil,2,0,Costa Rica,,FALSE
+861,2018,6/22/2018,Group stage,Nigeria,2,0,Iceland,,FALSE
+862,2018,6/22/2018,Group stage,Serbia,1,2,Switzerland,,FALSE
+863,2018,6/23/2018,Group stage,Belgium,5,2,Tunisia,,FALSE
+864,2018,6/23/2018,Group stage,South Korea,1,2,Mexico,,FALSE
+865,2018,6/23/2018,Group stage,Germany,2,1,Sweden,,FALSE
+866,2018,6/24/2018,Group stage,England,6,1,Panama,,FALSE
+867,2018,6/24/2018,Group stage,Japan,2,2,Senegal,,FALSE
+868,2018,6/24/2018,Group stage,Poland,0,3,Colombia,,FALSE
+869,2018,6/25/2018,Group stage,Russia,0,3,Uruguay,,TRUE
+870,2018,6/25/2018,Group stage,Saudi Arabia,2,1,Egypt,,FALSE
+871,2018,6/25/2018,Group stage,Spain,2,2,Morocco,,FALSE
+872,2018,6/25/2018,Group stage,Iran,1,1,Portugal,,FALSE
+873,2018,6/26/2018,Group stage,Australia,0,2,Peru,,FALSE
+874,2018,6/26/2018,Group stage,Denmark,0,0,France,,FALSE
+875,2018,6/26/2018,Group stage,Nigeria,1,2,Argentina,,FALSE
+876,2018,6/26/2018,Group stage,Iceland,1,2,Croatia,,FALSE
+877,2018,6/27/2018,Group stage,South Korea,2,0,Germany,,FALSE
+878,2018,6/27/2018,Group stage,Mexico,0,3,Sweden,,FALSE
+879,2018,6/27/2018,Group stage,Serbia,0,2,Brazil,,FALSE
+880,2018,6/27/2018,Group stage,Switzerland,2,2,Costa Rica,,FALSE
+881,2018,6/28/2018,Group stage,Japan,0,1,Poland,,FALSE
+882,2018,6/28/2018,Group stage,Senegal,0,1,Colombia,,FALSE
+883,2018,6/28/2018,Group stage,Panama,1,2,Tunisia,,FALSE
+884,2018,6/28/2018,Group stage,England,0,1,Belgium,,FALSE
+885,2018,6/30/2018,Round of 16,France,4,3,Argentina,,FALSE
+886,2018,6/30/2018,Round of 16,Uruguay,2,1,Portugal,,FALSE
+887,2018,7/1/2018,Round of 16,Russia,1,1,Spain,Russia win on penalties (4 - 3),TRUE
+888,2018,7/1/2018,Round of 16,Croatia,1,1,Denmark,Croatia win on penalties (3 - 2),FALSE
+889,2018,7/2/2018,Round of 16,Brazil,2,0,Mexico,,FALSE
+890,2018,7/2/2018,Round of 16,Belgium,3,2,Japan,,FALSE
+891,2018,7/3/2018,Round of 16,Sweden,1,0,Switzerland,,FALSE
+892,2018,7/3/2018,Round of 16,Colombia,1,1,England,England win on penalties (3 - 4),FALSE
+893,2018,7/6/2018,Quarter-finals,Uruguay,0,2,France,,FALSE
+894,2018,7/6/2018,Quarter-finals,Brazil,1,2,Belgium,,FALSE
+895,2018,7/7/2018,Quarter-finals,Sweden,0,2,England,,FALSE
+896,2018,7/7/2018,Quarter-finals,Russia,2,2,Croatia,Croatia win on penalties (3 - 4),TRUE
+897,2018,7/10/2018,Semi-finals,France,1,0,Belgium,,FALSE
+898,2018,7/11/2018,Semi-finals,Croatia,2,1,England,Extra time,FALSE
+899,2018,7/14/2018,Third place,Belgium,2,0,England,,FALSE
+900,2018,7/15/2018,Final,France,4,2,Croatia,,FALSE

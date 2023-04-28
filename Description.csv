@@ -1,0 +1,22 @@
+Table,Field,Description
+Cup,Year,Year in which the World Cup took place
+Cup,Host Country,Country that hosted the tournament
+Cup,Winner,Country that won the tournament
+Cup,Runners-Up,Country that received second place
+Cup,Third,Country that received third place
+Cup,Fourth,Country that received fourth place
+Cup,Goals Scored,Total number of goals scored in the tournament
+Cup,Qualified Teams,Total number of teams that participated in the tournament
+Cup,Matches Played,Total number of matches played in the tournament
+Cup,Top_Scorer,Most player scored goals in the tournament
+Cup,Goals,Total number of goals scored by a Player
+Match,ID,Unique identifier for the match
+Match,Year,Year in which the World Cup took place
+Match,Date,Data of the match
+Match,Stage,Stage in the tournament (previous World Cups had different formats)
+Match,Home Team,Country playing as the home team
+Match,Home Goals,Goals scored by the home team
+Match,Away Goals,Goals scored by the away team
+Match,Away Team,Country playing as the away team
+Match,Win Conditions,"Was the match decided in extra time, by golden goal (no longer applicable), or penalties?"
+Match,Host Team,"TRUE whenever the host country is playing as the home team in the match, FALSE otherwise"
