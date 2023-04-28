@@ -22,3 +22,28 @@ Columns (ID, Year, Date, Stage, Home Team, Home Goals, Away Goals, Away Team, Wi
 
 <img src="https://user-images.githubusercontent.com/47163932/235233298-bf9021cf-1cbd-4bae-bba6-f44ea0e7b732.jpeg" width="600" height="400">
 
+### - Insights:
+
+<p> We answered some questions ….
+1- Which Countries Hosted the World Cup and Won?
+2- which world cup has highest goals scored?
+3- which country scored a highest goal outside home?
+5- which Final match has a highest-goals scored?
+6- Most Team Won The World Cups.
+     (The Most Teams Won The World Cups)?
+7- Which Countries Achieve The Specific Position?
+8- Who Win The Cup in That Year?
+9- which countries won the world cup in 2000s?
+10- Average Goals Scored In World Cups and Who Is The Country?
+11- Which team has played the most matches in world cup history?
+12- What is the highest number of goals scored by a player in a single tournament?
+13- MOST SCORED MATCH.
+14- Top 5 Countries Scored Goals.
+15- number Of Goals For Team In Specific Stage.
+16- Number Of Appearance Of The Team For Each Cup.
+17- NUMBER OF MATCHES PLAYED BY TEAM.
+18- Which Country Win and Which Country Host The specific Cup?
+19- Prevent The Update in dataset(Trigger).
+20- HIGHEST SCORE MATCH.
+21- Top Country Won In a Specific Position?
+<p/>
