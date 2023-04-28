@@ -47,3 +47,25 @@ Columns (ID, Year, Date, Stage, Home Team, Home Goals, Away Goals, Away Team, Wi
 20- HIGHEST SCORE MATCH.<br>
 21- Top Country Won In a Specific Position?<br>
 <p/>
+
+### - Tools and Technologies Used:
+
+##### ● SQL Server 2019
+##### ● Advanced SQL Queries:
+  - Functions:
+    - getwinner                            - N_Matches_Year
+    - Position                             - N_Matches
+    - GETDATA
+
+  - Stored Procedures:
+     - HostAndWin               - Final_Highest_Goal                - Most_Matches_Played
+     - HighGoalsCup             - Champ_Of_WC                       - High_Goals_Player
+     - HighGoalsOut             - The_Winner                        - Most_Scored_Match
+     - HighGoalsIn              - The_2000s_Winners                 - Top5TeamsGoals
+     - Goal_Stage               - Top_Team
+
+  - Triggers ( up_host )   
+  - VIEW ( H_A_Goals )
+  - Window functions ( rank(), dense_rank () )
+  - CTE 
+  - Subquires
